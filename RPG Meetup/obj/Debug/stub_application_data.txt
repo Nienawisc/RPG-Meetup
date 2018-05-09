@@ -1,0 +1,2 @@
+android.app.Application
+RPG_Meetup.RPG_Meetup

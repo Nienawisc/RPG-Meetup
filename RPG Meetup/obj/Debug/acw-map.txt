@@ -1,0 +1,4 @@
+RPG_Meetup.MainActivity, RPG Meetup;md588ea16b8ccd4681a0683de967e03dec4.MainActivity
+RPG_Meetup.MainActivity, RPG Meetup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md588ea16b8ccd4681a0683de967e03dec4.MainActivity
+RPG_Meetup.MainActivity;md588ea16b8ccd4681a0683de967e03dec4.MainActivity
+rpg_meetup.MainActivity;md588ea16b8ccd4681a0683de967e03dec4.MainActivity

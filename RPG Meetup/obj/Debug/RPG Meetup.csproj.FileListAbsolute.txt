@@ -1,0 +1,18 @@
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG_Meetup.RPG_Meetup.apk
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG_Meetup.RPG_Meetup-Signed.apk
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csprojResolveAssemblyReference.cache
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csproj.CoreCompileInputs.cache
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\bin\RPG_Meetup.RPG_Meetup.apk
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\main.xml
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\values\strings.xml
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\R.cs.flag
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\uploadflags.txt
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.dll.mdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\RPG Meetup.dll.mdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\browser.xml
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\createroom.xml
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\spinner_item.xml
