@@ -16,3 +16,4 @@ C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\RPG M
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\browser.xml
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\createroom.xml
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\spinner_item.xml
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\MySql.Data.CF.dll
