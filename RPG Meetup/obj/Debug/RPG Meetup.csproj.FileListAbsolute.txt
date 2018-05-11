@@ -2,7 +2,6 @@ C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.pdb
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG_Meetup.RPG_Meetup.apk
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG_Meetup.RPG_Meetup-Signed.apk
-C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csprojResolveAssemblyReference.cache
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csproj.CoreCompileInputs.cache
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.pdb
@@ -17,3 +16,51 @@ C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\browser.x
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\createroom.xml
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\res\layout\spinner_item.xml
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\MySql.Data.CF.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csprojAssemblyReference.cache
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\RPG Meetup.csproj.CopyComplete
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\R.txt
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\Mono.Android.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\Mono.Security.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\mscorlib.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Core.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Data.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Net.Http.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Numerics.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Transactions.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\System.Xml.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Core.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Data.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\RPG Meetup.dll.mdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Core.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Data.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\bin\Debug\RPG Meetup.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\linksrc\RPG Meetup.dll.mdb

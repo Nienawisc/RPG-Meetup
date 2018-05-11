@@ -1,19 +1,23 @@
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\RPG Meetup.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Java.Interop.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\mscorlib.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\MySql.Data.CF.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Core.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Data.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Xml.dll
-C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\mscorlib.dll
-C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\MySql.Data.CF.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Threading.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Collections.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Reflection.dll
-C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Reflection.Primitives.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Linq.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Runtime.Extensions.dll
@@ -23,5 +27,4 @@ C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Syste
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Numerics.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\System.Transactions.dll
-C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Data.Tds.dll
 C:\Users\umlau\source\repos\RPG Meetup\RPG Meetup\obj\Debug\android\assets\Mono.Security.dll

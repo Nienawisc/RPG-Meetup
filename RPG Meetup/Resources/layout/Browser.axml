@@ -44,19 +44,19 @@
                         android:id="@+id/Name"
                         android:text="Name:"
                         android:padding="3dip"
-                        android:textSize="18dp" />
-                  <TextView
+                        android:textSize="12dp" />
+                    <TextView
                         android:textColor="@android:color/darker_gray"
                         android:id="@+id/System"
                         android:text="System:"
                         android:padding="3dip"
-                        android:textSize="18dp" />
-                  <TextView
+                        android:textSize="12dp" />
+                    <TextView
                         android:textColor="@android:color/darker_gray"
                         android:id="@+id/NOplayers"
                         android:text="Players: 0/0"
                         android:padding="3dip"
-                        android:textSize="18dp" />
+                        android:textSize="12dp" />
                 </TableRow>
             </TableLayout>
         </ScrollView>
