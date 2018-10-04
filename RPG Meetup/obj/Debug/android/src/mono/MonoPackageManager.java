@@ -108,8 +108,27 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "RPG Meetup.dll" comes first in this list. */
 		"RPG Meetup.dll",
 		"MySql.Data.CF.dll",
+		"Xamarin.Android.Arch.Core.Common.dll",
+		"Xamarin.Android.Arch.Lifecycle.Common.dll",
+		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",
+		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
+		"Xamarin.Android.Support.Annotations.dll",
+		"Xamarin.Android.Support.Compat.dll",
+		"Xamarin.Android.Support.Core.UI.dll",
+		"Xamarin.Android.Support.Core.Utils.dll",
+		"Xamarin.Android.Support.Fragment.dll",
+		"Xamarin.Android.Support.Media.Compat.dll",
+		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Android.Support.v7.AppCompat.dll",
+		"Xamarin.Android.Support.Vector.Drawable.dll",
+		"Xamarin.GooglePlayServices.Ads.dll",
+		"Xamarin.GooglePlayServices.Ads.Lite.dll",
+		"Xamarin.GooglePlayServices.Base.dll",
+		"Xamarin.GooglePlayServices.Basement.dll",
+		"Xamarin.GooglePlayServices.Gass.dll",
+		"Xamarin.GooglePlayServices.Tasks.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_27";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_26";
 }

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+ android:id="@+id/menu_preferences"
+ android:showAsAction="ifRoom"
+ android:title="Kick friend" />
+  <item
+ android:id="@+id/menu_preferences"
+ android:showAsAction="never"
+ android:title="Browser" />
+  <item
+ android:id="@+id/menu_preferences"
+ android:showAsAction="never"
+ android:title="Joined Rooms" />
+  <item
+   android:id="@+id/menu_preferences"
+   android:showAsAction="never"
+   android:title="My Rooms" />
+  <item
+     android:id="@+id/menu_preferences"
+     android:showAsAction="never"
+     android:title="Log Out" />
+  <item
+       android:id="@+id/menu_preferences"
+       android:showAsAction="never"
+       android:title="Preferences" />
+</menu>

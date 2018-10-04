@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ll1">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/imgProfil"
+        android:layout_gravity="left" />
+    <TextView
+        android:text="Name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/txtName"
+        android:textColor="#ff212121"
+        android:gravity="center"
+        android:layout_marginRight="3dp"
+        android:layout_weight="40" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/ll2"
+        android:layout_weight="30"
+        android:weightSum="3"
+        android:gravity="right">
+        <TextView
+            android:text="Players: 0/4"
+            android:id="@+id/txtNOPlayers"
+            android:textColor="#ff212121"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|right"
+            android:layout_weight="1" />
+        <TextView
+            android:text="City: Poznań"
+            android:id="@+id/txtCity"
+            android:textColor="#ff212121"
+            android:gravity="center|right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <TextView
+            android:text="Date: 18-05-16"
+            android:id="@+id/txtDate"
+            android:textColor="#ff212121"
+            android:gravity="center|right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+</LinearLayout>

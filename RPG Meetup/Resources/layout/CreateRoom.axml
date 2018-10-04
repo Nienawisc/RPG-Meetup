@@ -4,142 +4,141 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/white">
-  <TextView
-      android:text="Create your own game:"
-      android:textAppearance="?android:attr/textAppearanceMedium"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:id="@+id/textView1"
-      android:textColor="@android:color/darker_gray"
-      android:textSize="26dp" />
-  <ScrollView
-      android:id="@+id/layout"
-      android:layout_height="match_parent"
-      android:scrollbars="vertical"
-      android:layout_width="match_parent"
-      android:layout_marginTop="5dip"
-      android:scrollbarStyle="outsideInset"
-      android:fillViewport="true">
-    <TableLayout
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    <ScrollView
+        android:id="@+id/layout"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:stretchColumns="1"
-        android:id="@+id/tableLayout1">
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Name:"
-            android:padding="3dip"
-            android:textSize="18dp" />
-        <EditText
-            android:layout_width="match_parent"
-            android:maxLines="1"
-            android:layout_height="wrap_content"
-            android:id="@+id/editText1"
-            android:padding="3dip"
-            android:textColor="@android:color/darker_gray"
-            android:textSize="18dp"
-            android:hint="Name of your room" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="System:"
-            android:padding="3dip"
-            android:textSize="18dp" />
-        <Spinner
+        android:layout_marginTop="5dip"
+        android:scrollbarStyle="outsideInset"
+        android:fillViewport="true">
+        <TableLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spinner1"
-            android:padding="3dip"
-            android:prompt="@string/system_prompt" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Number of Players:"
-            android:padding="3dip"
-            android:textSize="14dp" />
-        <EditText
-            android:maxLines="1"
-            android:inputType="number"
-            android:textColor="@android:color/darker_gray"
-            android:id="@+id/editText2" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Location:"
-            android:padding="3dip"
-            android:textSize="14dp" />
-        <EditText
-            android:maxLines="1"
-            android:textColor="@android:color/darker_gray"
-            android:id="@+id/locationText" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Date:"
-            android:padding="3dip"
-            android:textSize="18dp" />
-        <DatePicker
-            android:id="@+id/datePicker1"
-            android:layout_width="251.0dp"
-            android:background="@android:color/darker_gray" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Time:"
-            android:padding="3dip"
-            android:layout_marginTop="5dp"
-            android:textSize="18dp" />
-        <TimePicker
-              android:id="@+id/timePicker1"
-              android:background="@android:color/darker_gray"
-              android:layout_marginTop="5dp"
-              android:timePickerMode="spinner" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Must accept:"
-            android:padding="3dip"
-            android:textSize="14dp" />
-        <Switch
-            android:id="@+id/switch1" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Only for friends:"
-            android:padding="3dip"
-            android:textSize="14dp" />
-        <Switch
-            android:id="@+id/switch2" />
-      </TableRow>
-      <TableRow>
-        <TextView
-            android:textColor="@android:color/darker_gray"
-            android:text="Description:"
-            android:padding="3dip"
-            android:layout_marginTop="5dp"
-            android:textSize="18dp" />
-        <EditText
-            android:textColor="@android:color/darker_gray"
-            android:textSize="14dp"
-            android:id="@+id/editText3" />
-      </TableRow>
-      <Button
-            android:text="Create game!"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/button1"
-            android:background="@android:color/holo_green_light"
-            android:layout_margin="20dp"
-            android:textSize="26dp"/>
-    </TableLayout>
-  </ScrollView>
-
+            android:stretchColumns="1"
+            android:id="@+id/tableLayout1">
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Name:"
+                    android:padding="3dip"
+                    android:textSize="18dp" />
+                <EditText
+                    android:layout_width="match_parent"
+                    android:maxLines="1"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/editText1"
+                    android:padding="3dip"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="18dp"
+                    android:hint="Name of your room" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="System:"
+                    android:padding="3dip"
+                    android:textSize="18dp" />
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinner1"
+                    android:padding="3dip"
+                    android:prompt="@string/system_prompt" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Number of Players:"
+                    android:padding="3dip"
+                    android:textSize="14dp" />
+                <EditText
+                    android:maxLines="1"
+                    android:inputType="number"
+                    android:textColor="@android:color/darker_gray"
+                    android:id="@+id/editText2" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Location:"
+                    android:padding="3dip"
+                    android:textSize="14dp" />
+                <EditText
+                    android:maxLines="1"
+                    android:textColor="@android:color/darker_gray"
+                    android:id="@+id/locationText" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Date:"
+                    android:padding="3dip"
+                    android:textSize="18dp" />
+                <DatePicker
+                    android:id="@+id/datePicker1"
+                    android:layout_width="251.0dp"
+                    android:background="@android:color/holo_green_light"
+                    android:calendarTextColor="@android:color/background_light"
+                    android:yearListSelectorColor="@android:color/background_light"
+                    android:headerBackground="@android:color/holo_green_dark"
+                    android:dayOfWeekBackground="@android:color/holo_green_dark" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Time:"
+                    android:padding="3dip"
+                    android:layout_marginTop="5dp"
+                    android:textSize="18dp" />
+                <TimePicker
+                    android:id="@+id/timePicker1"
+                    android:background="@android:color/holo_green_light"
+                    android:layout_marginTop="5dp"
+                    android:timePickerMode="spinner" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Must accept:"
+                    android:padding="3dip"
+                    android:textSize="14dp" />
+                <Switch
+                    android:id="@+id/switch1" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Only for friends:"
+                    android:padding="3dip"
+                    android:textSize="14dp" />
+                <Switch
+                    android:id="@+id/switch2" />
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:textColor="@android:color/darker_gray"
+                    android:text="Description:"
+                    android:padding="3dip"
+                    android:layout_marginTop="5dp"
+                    android:textSize="18dp" />
+                <EditText
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="14dp"
+                    android:id="@+id/editText3" />
+            </TableRow>
+            <Button
+                android:text="Create game!"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button1"
+                android:background="@android:color/holo_green_light"
+                android:layout_margin="20dp"
+                android:textColor="@android:color/background_light"
+                android:textSize="26dp" />
+        </TableLayout>
+    </ScrollView>
 </LinearLayout>

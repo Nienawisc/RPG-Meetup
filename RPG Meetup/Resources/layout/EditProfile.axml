@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout1">
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView1"
+                android:textColor="@android:color/holo_green_light"
+                android:text="Change avatar:"
+                android:textSize="26dp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linearLayout2"
+                android:weightSum="3">
+                <ImageView
+                    android:src="@android:drawable/ic_menu_gallery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/imageView1"
+                    android:layout_weight="1" />
+                <Button
+                    android:text="Choose photo"
+                    android:id="@+id/button1"
+                    android:textColorHint="@android:color/background_dark"
+                    android:background="@android:color/holo_green_light"
+                    android:textColor="@android:color/background_light"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2" />
+            </LinearLayout>
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView1"
+                android:textColor="@android:color/holo_green_light"
+                android:text="Change email:"
+                android:textSize="26dp"
+                android:textStyle="bold" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText1"
+                android:textColor="@android:color/holo_green_light"
+                android:textColorHint="#ffbdbdbd"
+                android:hint="Enter new email here" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText1"
+                android:textColor="@android:color/holo_green_light"
+                android:textColorHint="#ffbdbdbd"
+                android:hint="Enter password here" />
+            <Button
+                android:text="Send"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button1"
+                android:textColorHint="@android:color/background_dark"
+                android:background="@android:color/holo_green_light"
+                android:textColor="@android:color/background_light" />
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView1"
+                android:textColor="@android:color/holo_green_light"
+                android:text="Change password:"
+                android:textSize="26dp"
+                android:textStyle="bold" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText1"
+                android:textColor="@android:color/holo_green_light"
+                android:textColorHint="#ffbdbdbd"
+                android:hint="Enter new password here" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText1"
+                android:textColor="@android:color/holo_green_light"
+                android:textColorHint="#ffbdbdbd"
+                android:hint="Repeat password here" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText1"
+                android:textColor="@android:color/holo_green_light"
+                android:textColorHint="#ffbdbdbd"
+                android:hint="Enter old password here" />
+            <Button
+                android:text="Send"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button1"
+                android:textColorHint="@android:color/background_dark"
+                android:background="@android:color/holo_green_light"
+                android:textColor="@android:color/background_light" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
